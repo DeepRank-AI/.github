@@ -1,20 +1,27 @@
 <h1 align="center"><strong>🚀 REPOSITORY BOOSTER 🚀</strong></h1>
-<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+<p align="center">
   <!-- Commit Activity -->
-  <a href="https://github.com/repo-booster/repo-booster-development/commits/main">
-    <img src="https://img.shields.io/github/commit-activity/m/repo-booster/repo-booster-development?style=for-the-badge&color=0000ff&label=Commit%20Activity&labelColor=black" alt="Commit Activity">
+  <a href="https://github.com/repo-booster/open-source-v1.0/commits/main">
+    <img src="https://img.shields.io/github/commit-activity/m/repo-booster/open-source-v1.0?style=for-the-badge&color=green&label=Commit%20Activity&labelColor=black" alt="Commit Activity">
+  </a>
+
+  <!-- Website Status -->
+  <a href="https://repo-booster.com">
+    <img src="https://img.shields.io/website?down_color=black&up_color=green&down_message=offline&up_message=online&url=https%3A%2F%2Frepo-booster.com&style=for-the-badge&labelColor=black" alt="Website Status">
   </a>
   
   <!-- Contributors -->
-  <a href="https://github.com/repo-booster/repo-booster-development/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/repo-booster/repo-booster-development?style=for-the-badge&color=0000ff&label=Contributors&labelColor=black" alt="Contributors">
+  <a href="https://github.com/repo-booster/open-source-v1.0/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/repo-booster/open-source-v1.0?style=for-the-badge&color=green&label=Contributors&labelColor=black" alt="Contributors">
   </a>
   
   <!-- License -->
-  <a href="https://github.com/repo-booster/repo-booster-development/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/repo-booster/repo-booster-development?style=for-the-badge&color=0000ff&label=License&labelColor=black" alt="License">
+  <a href="https://github.com/repo-booster/open-source-v1.0/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/repo-booster/open-source-v1.0?style=for-the-badge&color=green&label=License&labelColor=black" alt="License">
   </a>
 </p>
+
+
 
 
 <p align="center">
