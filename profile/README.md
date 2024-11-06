@@ -66,7 +66,7 @@ Repo Booster is designed to be compatible with Node.js and modern frontend frame
 
 ## 🛠️ Documentation & Support
 
-- Access our [documentation](https://repo-booster.com/docs) for setup guides, API references, and user manuals.
+- Access our [documentation](https://docs.repo-booster.com/) for setup guides, API references, and user manuals.
 - For queries or assistance, [open an issue](https://github.com/repo-booster/repo-booster-development/issues/new) or contact us at [support@repo-booster.com](mailto:support@repo-booster.com).
 
 ## 💵 Flexible Pricing Plans
@@ -84,7 +84,7 @@ Our community makes Repo Booster thrive!
 
 ## 📄 License
 
-This project is licensed under the [Apache License Version 2.0](./LICENSE).
+This project is licensed under the [MIT LICENSE](./LICENSE).
 
 ---
 
