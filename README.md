@@ -1,6 +1,25 @@
+![social-card](https://github.com/user-attachments/assets/87624fea-0f25-40b0-8100-fbe2571f5301)
+
+<p align="center">
+  <a href="https://ui.nuxt.com/pro">
+    <img src="https://img.shields.io/badge/Made%20with-Nuxt%20UI%20Pro-00DC82?logo=nuxt.js&labelColor=020420" alt="Powered By Nuxt">
+  </a>
+  <a href="https://app.netlify.com/sites/repo-booster/deploys">
+    <img src="https://api.netlify.com/api/v1/badges/fe8e23bd-4d21-4549-98e9-08ae542dc2fc/deploy-status" alt="Netlify Status">
+  </a>
+</p>
+
 ## 🌟 What is Repo-Booster?
 
 - **Repo-Booster** is a GitHub tool driven by GitHub data insights to boost visibility, collaboration, and growth. It provides practical tools and automation for developers, teams, and open-source projects of all sizes.
+
+## 🔗 Key Links
+- **Install On Github**: [github.com/marketplace/repo-booster](https://github.com/marketplace/repo-booster)
+- **Documentation**: [docs.repo-booster.com](https://docs.repo-booster.com)
+- **Main Website**: [repo-booster.com](https://repo-booster.com)
+- **App Website**: [app.repo-booster.com](https://app.repo-booster.com)
+
+---
 
 ## 🔥 Key Features
 
@@ -8,7 +27,6 @@
    - **Optimize README Files**: Receive suggestions to enhance your README content for improved search visibility. Repo-Booster scans GitHub for similar successful projects and recommends optimizations based on trends and GitHub data.
    - **Keyword Recommendations**: Auto-generate keywords based on **top-performing repositories**, similar to your project to increase discoverability.
    - **Metadata Enhancements**: Refine repository metadata to align with popular search trends, boosting organic traffic.
-
 
 ### ⭐ **Star Growth Optimization**
    - **Analyze Star Trends**: Track star growth over time and identify key factors driving engagement.
@@ -32,15 +50,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://imgur.com/bQhS1N9.png" alt="Repo-Booster Dashboard" width="80%">
-</p>
-
----
-
 ## 🛠️ How to Install
 
-1. **Visit the GitHub Marketplace** and search for **Repo-Booster**.
+1. **Visit the [GitHub Marketplace](https://github.com/marketplace/repo-booster)** and search for **Repo-Booster**.
 2. **Click the “Install” button** to add Repo-Booster to your repositories.
 3. **Configure permissions** to allow Repo-Booster to access your repository data.
 4. **Start enhancing your GitHub management** directly from your dashboard!
@@ -56,5 +68,5 @@
 ---
 
 <p align="center">
-  <strong>🚀 Boost your GitHub success with Repo-Booster today! 🚀</strong>
+  <strong>🚀 Fast-track You GitHub Success With Repo-Booster! 🚀</strong>
 </p>
