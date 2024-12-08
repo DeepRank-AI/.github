@@ -1,4 +1,4 @@
-![social-card](https://github.com/user-attachments/assets/87624fea-0f25-40b0-8100-fbe2571f5301)
+![rpeo-booster](https://github.com/user-attachments/assets/2f703707-3e85-4ea3-aae8-fde068f8fb3a)
 
 ## 🌟 What is Repo-Booster?
 
