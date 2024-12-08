@@ -1,4 +1,4 @@
-![rpeo-booster](https://github.com/user-attachments/assets/2f703707-3e85-4ea3-aae8-fde068f8fb3a)
+![repo-booster](https://github.com/user-attachments/assets/2f703707-3e85-4ea3-aae8-fde068f8fb3a)
 
 ## 🌟 What is Repo-Booster?
 
