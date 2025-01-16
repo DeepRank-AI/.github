@@ -19,7 +19,7 @@
 
 ## Project Links:
 
-- **Repo-Booster Website**: [https://repo-booster.com](https://repo-booster.com)  
+- **Repo-Booster**: [https://repo-booster.com](https://repo-booster.com)  
 - **ChatBot UI**: [https://app.repo-booster.com](https://app.repo-booster.com/chat)  
 - **SEO Agent**: [https://app.repo-booster.com](https://app.repo-booster.com)  
 ---
