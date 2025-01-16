@@ -11,7 +11,4 @@
   <a href="https://status.repo-booster.com">
     <img src="https://img.shields.io/badge/Status-Repo%20Booster-18181B?style=flat&logo=check-mark&logoColor=28CF8D&colorB=28CF8D" alt="Status">
   </a>
-  <a href="https://status.repo-booster.com">
-    <img src="https://img.shields.io/badge/Status-Repo%20Booster-18181B?style=flat&logo=check-mark&logoColor=28CF8D&colorB=28CF8D" alt="Status">
-  </a>
 </p>
